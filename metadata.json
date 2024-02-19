@@ -1,7 +1,7 @@
 {
-  "name": "kryptoht",
-  "website": "https://kryptoht.com",
-  "description": "Operator on eigenLayer",
+  "name": "Eigenlayer Validator",
+  "website": "https://github.com/kvcrypto2022",
+  "description": "Validator with weekly snapshots for airdrops",
   "logo": "https://assets-global.website-files.com/636e894daa9e99940a604aef/6528c5a8168ccacfd3bf7363_eigenlayer-60f0a5b5c0a93171aa875084aea053c2.png",
   "twitter": "https://twitter.com/kryptoht"
 }
